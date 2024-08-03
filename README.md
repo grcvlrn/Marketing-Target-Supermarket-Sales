@@ -53,3 +53,4 @@ Implementing the new marketing strategies is expected to lead to a significant i
 
 ## IV. ATTACHMENT
 [Tableau Dashboard](https://public.tableau.com/views/SupermarketAnalysis_17176387050300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Powerpoint Presentation](https://docs.google.com/presentation/d/1lFk3Z5z8Qq0UDNTEbgEo1AmwvSvY7nxDpdZkBEHAmUE/edit?usp=sharing)
