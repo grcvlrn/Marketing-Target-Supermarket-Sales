@@ -52,4 +52,4 @@ By increasing marketing for rarely purchased products, the company can tap into 
 Implementing the new marketing strategies is expected to lead to a significant increase in revenue.
 
 ## IV. ATTACHMENT
-[Tableau Dashboard](https://public.tableau.com/shared/JPFC3SSQ6?:display_count=n&:origin=viz_sha)
+[Tableau Dashboard](https://public.tableau.com/views/SupermarketAnalysis_17176387050300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
