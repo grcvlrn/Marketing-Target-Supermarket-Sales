@@ -28,7 +28,23 @@ Optimize marketing by specifically targeting customers to increase sales revenue
 6. What and how is the correlation between cities and purchasing months? (Descriptive statistics)
 7. Why is it necessary to focus marketing efforts on increasing revenue by 10% for rarely purchased products? (Inferential statistics)
 
-## II. CONCLUSION
+## II. WORKFLOW
+**Data Collection*
+Collect data on product purchases, customer demographics, cities, and purchase dates
+
+**Data Preprocessing**
+Clean and preprocess the data, encode categorical variables
+
+**Data Analysis and Visualization**
+1. Analyze and visualize least purchased products (Pie Chart)
+2. Analyze and visualize customer genders rarely purchasing products (Bar Chart)
+3. Analyze the correlation between products and customer gender (Descriptive Statistics)
+4. Analyze and visualize the city with the least customers (Pie Chart)
+5. Analyze and visualize the month with the least customers (Bar Chart)
+6. Analyze the correlation between cities and purchasing months (Descriptive Statistics)
+7. Justify focusing marketing efforts to increase revenue for rarely purchased products (Inferential Statistics)
+
+## III. CONCLUSION
 
 Based on the above data, the 'Health and beauty' product is the least purchased product. This indicates that it is either less popular or not well-promoted.
 
@@ -44,13 +60,13 @@ There is a significant correlation between city and purchasing month, meaning th
 
 By increasing marketing for rarely purchased products, the company can tap into an underutilized market potential. Increasing revenue by 10% will help improve the profitability of these products and boost the company's total revenue. If the new marketing strategies are implemented well, a significant increase in revenue is expected.
 
-## III. RECOMMENDATIONS
+## IV. RECOMMENDATIONS
 
 - The 'Health and beauty' products should be promoted more frequently, especially to male customers in Naypyitaw during February. Since the purchase of product types is not strongly related to the gender of the buyer, the marketing team can introduce 'Health and beauty' products to men.
 - Mandalay requires more effective promotion in February, as city sales are closely related to the month.
 
 Implementing the new marketing strategies is expected to lead to a significant increase in revenue.
 
-## IV. ATTACHMENT
+## V. ATTACHMENT
 [Tableau Dashboard](https://public.tableau.com/views/SupermarketAnalysis_17176387050300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 [Powerpoint Presentation](https://docs.google.com/presentation/d/1lFk3Z5z8Qq0UDNTEbgEo1AmwvSvY7nxDpdZkBEHAmUE/edit?usp=sharing)
